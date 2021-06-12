@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/eshanvohra/static/css/main.65eacda6.chunk.css",
+    "main.js": "/eshanvohra/static/js/main.b0bba76f.chunk.js",
+    "main.js.map": "/eshanvohra/static/js/main.b0bba76f.chunk.js.map",
+    "runtime-main.js": "/eshanvohra/static/js/runtime-main.0360bfa5.js",
+    "runtime-main.js.map": "/eshanvohra/static/js/runtime-main.0360bfa5.js.map",
+    "static/css/2.c4b60772.chunk.css": "/eshanvohra/static/css/2.c4b60772.chunk.css",
+    "static/js/2.65ac51f3.chunk.js": "/eshanvohra/static/js/2.65ac51f3.chunk.js",
+    "static/js/2.65ac51f3.chunk.js.map": "/eshanvohra/static/js/2.65ac51f3.chunk.js.map",
+    "index.html": "/eshanvohra/index.html",
+    "static/css/2.c4b60772.chunk.css.map": "/eshanvohra/static/css/2.c4b60772.chunk.css.map",
+    "static/css/main.65eacda6.chunk.css.map": "/eshanvohra/static/css/main.65eacda6.chunk.css.map",
+    "static/js/2.65ac51f3.chunk.js.LICENSE.txt": "/eshanvohra/static/js/2.65ac51f3.chunk.js.LICENSE.txt",
+    "static/media/GFG.d0f8984d.jpg": "/eshanvohra/static/media/GFG.d0f8984d.jpg",
+    "static/media/GFG1.54bebb1c.jpg": "/eshanvohra/static/media/GFG1.54bebb1c.jpg",
+    "static/media/GOS.a151d465.png": "/eshanvohra/static/media/GOS.a151d465.png",
+    "static/media/NQT1.b7d3cbff.png": "/eshanvohra/static/media/NQT1.b7d3cbff.png",
+    "static/media/NQT2.046c22ab.png": "/eshanvohra/static/media/NQT2.046c22ab.png",
+    "static/media/codekaze.f7756a7c.png": "/eshanvohra/static/media/codekaze.f7756a7c.png",
+    "static/media/covid.9b5ad60f.png": "/eshanvohra/static/media/covid.9b5ad60f.png",
+    "static/media/esb.c85ef943.png": "/eshanvohra/static/media/esb.c85ef943.png",
+    "static/media/examproj.edbebc6a.png": "/eshanvohra/static/media/examproj.edbebc6a.png",
+    "static/media/gfgnewlogo.b4428b36.png": "/eshanvohra/static/media/gfgnewlogo.b4428b36.png",
+    "static/media/logo.6ce24c58.svg": "/eshanvohra/static/media/logo.6ce24c58.svg",
+    "static/media/myphoto.732fd80a.jpg": "/eshanvohra/static/media/myphoto.732fd80a.jpg",
+    "static/media/ninja.d5b702e4.png": "/eshanvohra/static/media/ninja.d5b702e4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0360bfa5.js",
+    "static/css/2.c4b60772.chunk.css",
+    "static/js/2.65ac51f3.chunk.js",
+    "static/css/main.65eacda6.chunk.css",
+    "static/js/main.b0bba76f.chunk.js"
+  ]
+}
