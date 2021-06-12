@@ -8,8 +8,8 @@ AOS.init();
 const Education = () => {
   return (
     <div className="container text-center education">
-      <h1 className="text-center mb-5" style={{ fontSize: "3rem" }}>
-        Education
+      <h1 className="text-center mb-5 titles" style={{ fontSize: "3rem" }}>
+        My Education
       </h1>
       <div className="box d-flex">
         <img

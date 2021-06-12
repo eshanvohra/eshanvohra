@@ -25,7 +25,7 @@ const Header = (props) => {
   return (
     <div className="container">
       <Navbar  light expand="md" data-aos="fade-down" data-aos-duration="3000">
-        <NavbarBrand href="/" className="brand">ESHAN VOHRA</NavbarBrand>
+        <NavbarBrand href="/" className="brand titles">ESHAN VOHRA</NavbarBrand>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar className="navbarcont">
      

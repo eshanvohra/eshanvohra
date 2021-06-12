@@ -55,10 +55,6 @@
   height: 36px;
 }
 
-
-
-
-
 .introContainer {
   /* border: 2px solid red; */
   /* border: 2px solid red; */
@@ -73,11 +69,11 @@
   /* border: 2px solid red; */
   font-size: 3rem;
   font-family: "Montserrat", sans-serif;
-  flex:60%;
+  flex: 60%;
 }
-.right{
+.right {
   /* border: 2px solid red; */
-  flex:40%;
+  flex: 40%;
 }
 .right img {
   width: 400px;
@@ -91,16 +87,16 @@
   font-size: 2rem;
   color: black;
 }
-.cards{
+.cards {
   display: flex;
   justify-content: space-evenly;
   margin-top: 10px;
 }
-.education_details{
+.education_details {
   display: flex;
-  flex-direction: row!important;
+  flex-direction: row !important;
 }
-.education{
+.education {
   /* border: 2px solid red; */
   display: flex;
   align-items: center;
@@ -111,9 +107,37 @@
   .introContainer {
     flex-direction: column-reverse;
   }
-  .cards{
+  .cards {
     flex-direction: column;
     align-items: center;
     justify-content: center;
   }
+}
+
+.skill-images img {
+  width: 100px;
+  height: 100px;
+}
+
+.position-content {
+  display: flex;
+  flex-direction: row;
+}
+.titles {
+  color: #444;
+  text-shadow: 1px 0px 1px #ccc, 0px 1px 1px #eee, 2px 1px 1px #ccc,
+    1px 2px 1px #eee, 3px 2px 1px #ccc, 2px 3px 1px #eee, 4px 3px 1px #ccc,
+    3px 4px 1px #eee, 5px 4px 1px #ccc, 4px 5px 1px #eee, 6px 5px 1px #ccc,
+    5px 6px 1px #eee, 7px 6px 1px #ccc;
+}
+.footer {
+  margin-top: 20px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #bbbbbb;
+  color: black;
+  font-weight: 700;
+  width: 100%;
 }

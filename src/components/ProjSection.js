@@ -17,7 +17,7 @@ AOS.init();
 const ProjSection = () => {
   return (
     <div className="container mt-5 p-5">
-      <h1 className="text-center">My Projects</h1>
+      <h1 className="text-center titles mt-5 mb-5">My Projects</h1>
           <div className="cards d-flex ">
               
               {/* **************************CARDS START***************************** */}
