@@ -9,7 +9,7 @@
   <img align="left" alt="Eshan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/eshanvohra" target="_blank">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Eshan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 
@@ -30,8 +30,8 @@
 - ⚡ Whatsapp: 82830-89459
 
 [![Twitter: EshanVohra](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
-[![Linkedin: eshanvohra](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
-[![GitHub iampawan](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/iampawan)
+[![Linkedin: eshanvohra](https://img.shields.io/badge/-eshanvohra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eshanvohra/)](https://www.linkedin.com/in/eshan-vohra-19b43716a/)
+[![GitHub eshanvohra](https://img.shields.io/github/followers/eshanvohra?label=follow&style=social)](https://github.com/eshanvohra)
 [![website](https://img.shields.io/badge/PortfolioWebsite-eshan.live-2648ff?style=flat-square&logo=google-chrome)](https://eshanvohra.github.io/eshanvohra/)
 
 
