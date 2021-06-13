@@ -2,18 +2,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshanvohra&label=Views&color=blue&style=plastic" alt="eshanvohra" /> </p>
 
-<a href="https://twitter.com/EshanVohra">
+<a href="https://twitter.com/EshanVohra" target="_blank">
   <img align="left" alt="Eshan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/eshan-vohra-19b43716a/">
+<a href="https://www.linkedin.com/in/eshan-vohra-19b43716a/" target="_blank">
   <img align="left" alt="Eshan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/eshanvohra">
+<a href="https://github.com/eshanvohra" target="_blank">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 
-<a href="https://www.facebook.com/eshan.vohra.16">
+<a href="https://www.facebook.com/eshan.vohra.16" target="_blank">
   <img align="left" alt="Eshan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
@@ -43,10 +43,10 @@
 <code><img height="20" src="https://www.pinclipart.com/picdir/middle/537-5374089_react-js-logo-clipart.png"></code>   
 <code><img height="20" src="https://www.pngitem.com/pimgs/m/174-1746684_java-java-logo-black-png-transparent-png.png"></code>
 
-<a href="https://github.com/eshanvohra">
+<a href="https://github.com/eshanvohra" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshanvohra&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/eshanvohra">
+<a href="https://github.com/eshanvohra" target="_blank">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eshanvohra&show_icons=true&theme=light&line_height=27" alt="Eshan's github stats"/>
 </a>
 
