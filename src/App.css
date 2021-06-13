@@ -2,7 +2,9 @@
 .App {
   text-align: center;
 }
-
+*{
+  word-wrap: break-word!important;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -112,6 +114,24 @@
     align-items: center;
     justify-content: center;
   }
+  .position-content img{
+    width:70px!important;
+   height:70px!important;
+  }
+  .mypositions{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  /* .mycarousel{
+    max-height: 100px!important;
+    max-width: 60px!important;
+  }
+  .carousel-container{
+    max-height: 100px!important;
+    max-width: 60px!important;
+  } */
 }
 
 .skill-images img {

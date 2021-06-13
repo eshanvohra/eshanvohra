@@ -10,19 +10,21 @@ import GFG1 from "../images/GFG1.jpg";
 
 const Certification = () => {
   let slides = [
-    <img src={codekaze} alt="1" />,
-    <img src={ninja} alt="2" />,
-    <img src={NQT1} alt="3" />,
-    <img src={NQT2} alt="4" />,
-    <img src={GOS} alt="5" />,
-    <img src={GFG} alt="5" />,
-    <img src={GFG1} alt="5" />,
+    <img src={codekaze} className="img-fluid" alt="1" />,
+    <img src={ninja} className="img-fluid" alt="2" />,
+    <img src={NQT1} className="img-fluid" alt="3" />,
+    <img src={NQT2} className="img-fluid" alt="4" />,
+    <img src={GOS}  className="img-fluid" alt="5" />,
+    <img src={GFG}  className="img-fluid" alt="6" />,
+    <img src={GFG1} className="img-fluid" alt="7" />,
   ];
   return (
-    <div className="container mt-5 mb-5">
-      <h1 className="mt-5 mb-5 text-center titles">My Achievements</h1>
-      <Carousel slides={slides} autoplay={true} interval={4000} />
-    </div>
+    // <div className="container mt-5 mb-5 ">
+    //   <h1 className="mt-5 mb-5 text-center titles">My Achievements</h1>
+    //   <Carousel className="" slides={slides} autoplay={true} interval={4000} />
+    // </div>
+
+     <Carousel className="" slides={slides} autoplay={true} interval={4000} />
   );
 };
 

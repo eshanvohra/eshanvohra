@@ -3,7 +3,7 @@ const PositionCard = (props) => {
   const { title, description, duration,image } = props;
   return (
     <div className="container d-flex align-items-center justify-content-center mt-5 mb-5">
-      <div className="card" style={{ width: "1020px" }}>
+      <div className="card mypositions" style={{ width: "1020px" }}>
         <div className="position-content">
           <img
             className="card-img-top"
