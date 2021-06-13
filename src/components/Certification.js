@@ -1,5 +1,8 @@
 import React from "react";
 import { Carousel } from "3d-react-carousal";
+
+
+
 import codekaze from "../images/codekaze.png";
 import ninja from "../images/ninja.png";
 import NQT1 from "../images/NQT1.png";
@@ -19,13 +22,15 @@ const Certification = () => {
     <img src={GFG1} className="img-fluid" alt="7" />,
   ];
   return (
-    // <div className="container mt-5 mb-5 ">
-    //   <h1 className="mt-5 mb-5 text-center titles">My Achievements</h1>
-    //   <Carousel className="" slides={slides} autoplay={true} interval={4000} />
-    // </div>
+    <div className="mycarousel mt-5 mb-5 ">
+      <h1 className="mt-5 mb-5 text-center titles">My Achievements</h1>
+      <Carousel className="" slides={slides} autoplay={true} interval={4000} />
+    </div>
 
-     <Carousel className="" slides={slides} autoplay={true} interval={4000} />
+     
+
   );
+  
 };
 
 export default Certification;
