@@ -29,7 +29,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Whatsapp: 82830-89459
 
-[![Twitter: EshanVohra](https://img.shields.io/twitter/follow/eshanvohra?style=social)](https://twitter.com/imthepk)
+[![Twitter: EshanVohra](https://img.shields.io/twitter/follow/eshanvohra?style=social)](https://twitter.com/EshanVohra)
 [![Linkedin: eshanvohra](https://img.shields.io/badge/-eshanvohra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eshanvohra/)](https://www.linkedin.com/in/eshan-vohra-19b43716a/)
 [![GitHub eshanvohra](https://img.shields.io/github/followers/eshanvohra?label=follow&style=social)](https://github.com/eshanvohra)
 [![website](https://img.shields.io/badge/PortfolioWebsite-eshan.live-2648ff?style=flat-square&logo=google-chrome)](https://eshanvohra.github.io/eshanvohra/)
